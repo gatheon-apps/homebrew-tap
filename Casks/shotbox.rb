@@ -1,6 +1,6 @@
 cask "shotbox" do
-  version "0.8.4"
-  sha256 "cf8b324facc3dfb439660ade0f62a28c5bfe19e946130a850bd6182949ff30d2"
+  version "0.8.5"
+  sha256 "fc5061a12fc77f124742634a9c7e4589ed686566e6b368d63ad071027e830d3c"
 
   url "https://dl-box.gatheon.com/Shotbox-#{version}.dmg"
   name "Shotbox"
