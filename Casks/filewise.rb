@@ -1,6 +1,6 @@
 cask "filewise" do
-  version "0.8.3"
-  sha256 "a35a766a56c24112f4e1b80e29d993cec1ed253b883bb74cceafecee3c6ffb10"
+  version "0.8.4"
+  sha256 "a71ae55443ff939ce785aa7ee0f71653a6f9a9ab8ceb393b130f6f2847afb6ae"
 
   url "https://dl-filewise.gatheon.com/Filewise_v#{version}_slim.dmg"
   name "Filewise"
